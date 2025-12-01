@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+pandas
+numpy
+scikit-learn
+shap
+matplotlib
+plotly
+reportlab
